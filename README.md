@@ -21,4 +21,4 @@
 var a = 2;
 ```
 
-![samantha-bee.png]
+![samantha bee](samantha-bee.png)
